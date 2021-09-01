@@ -1,15 +1,15 @@
 [
   {
     "full_name": "commclassroom/mobileapp",
-    "stargazers_count": 27,
-    "open_issues_count": 0,
-    "forks_count": 4
+    "stargazers_count": 33,
+    "open_issues_count": 1,
+    "forks_count": 6
   },
   {
     "full_name": "laurent22/joplin",
-    "stargazers_count": 24922,
-    "open_issues_count": 253,
-    "forks_count": 2718
+    "stargazers_count": 25088,
+    "open_issues_count": 255,
+    "forks_count": 2730
   },
   {
     "full_name": "pransh15/moz-starter-pack",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 1231,
-    "open_issues_count": 12,
-    "forks_count": 185
+    "stargazers_count": 1239,
+    "open_issues_count": 11,
+    "forks_count": 186
   },
   {
     "full_name": "cod-ed/simulate",
@@ -37,74 +37,74 @@
   },
   {
     "full_name": "cncf/mentoring",
-    "stargazers_count": 759,
+    "stargazers_count": 766,
     "open_issues_count": 5,
-    "forks_count": 268
+    "forks_count": 267
   },
   {
     "full_name": "mitmath/18S191",
-    "stargazers_count": 1980,
+    "stargazers_count": 1983,
     "open_issues_count": 10,
-    "forks_count": 337
+    "forks_count": 340
   },
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 37169,
-    "open_issues_count": 35,
-    "forks_count": 5402
+    "stargazers_count": 37218,
+    "open_issues_count": 36,
+    "forks_count": 5414
   },
   {
     "full_name": "tortuvshin/open-source-flutter-apps",
-    "stargazers_count": 1440,
+    "stargazers_count": 1466,
     "open_issues_count": 0,
     "forks_count": 373
   },
   {
     "full_name": "williamfiset/Algorithms",
-    "stargazers_count": 10717,
+    "stargazers_count": 10747,
     "open_issues_count": 69,
-    "forks_count": 2854
+    "forks_count": 2861
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 59061,
-    "open_issues_count": 1919,
-    "forks_count": 3228
+    "stargazers_count": 59169,
+    "open_issues_count": 1934,
+    "forks_count": 3247
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 63689,
-    "open_issues_count": 214,
-    "forks_count": 2966
+    "stargazers_count": 63716,
+    "open_issues_count": 215,
+    "forks_count": 2968
   },
   {
     "full_name": "aagarwal1012/Animated-Text-Kit",
-    "stargazers_count": 1194,
+    "stargazers_count": 1195,
     "open_issues_count": 22,
-    "forks_count": 201
+    "forks_count": 202
   },
   {
     "full_name": "londonappbrewery/Flutter-Course-Resources",
-    "stargazers_count": 7941,
+    "stargazers_count": 7950,
     "open_issues_count": 35,
-    "forks_count": 2346
+    "forks_count": 2350
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 57912,
-    "open_issues_count": 281,
-    "forks_count": 2616
+    "stargazers_count": 57958,
+    "open_issues_count": 282,
+    "forks_count": 2620
   },
   {
     "full_name": "puneetsl/lotion",
-    "stargazers_count": 1699,
+    "stargazers_count": 1700,
     "open_issues_count": 18,
     "forks_count": 78
   },
   {
     "full_name": "Rigellute/spotify-tui",
-    "stargazers_count": 9142,
-    "open_issues_count": 155,
+    "stargazers_count": 9170,
+    "open_issues_count": 157,
     "forks_count": 318
   },
   {
@@ -121,19 +121,19 @@
   },
   {
     "full_name": "whatsplay/whatsapp-play",
-    "stargazers_count": 326,
+    "stargazers_count": 327,
     "open_issues_count": 18,
     "forks_count": 220
   },
   {
     "full_name": "huangsam/ultimate-python",
-    "stargazers_count": 3109,
-    "open_issues_count": 0,
+    "stargazers_count": 3116,
+    "open_issues_count": 1,
     "forks_count": 300
   },
   {
     "full_name": "klaussinani/ao",
-    "stargazers_count": 1874,
+    "stargazers_count": 1875,
     "open_issues_count": 107,
     "forks_count": 173
   },
@@ -145,31 +145,31 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 55142,
-    "open_issues_count": 20,
-    "forks_count": 8558
+    "stargazers_count": 55273,
+    "open_issues_count": 24,
+    "forks_count": 8580
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 34263,
+    "stargazers_count": 34310,
     "open_issues_count": 36,
-    "forks_count": 5016
+    "forks_count": 5022
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 153221,
-    "open_issues_count": 47,
-    "forks_count": 17398
+    "stargazers_count": 153917,
+    "open_issues_count": 42,
+    "forks_count": 17485
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 190490,
-    "open_issues_count": 42,
-    "forks_count": 51268
+    "stargazers_count": 190668,
+    "open_issues_count": 43,
+    "forks_count": 51328
   },
   {
     "full_name": "wobsoriano/coderstats",
-    "stargazers_count": 82,
+    "stargazers_count": 81,
     "open_issues_count": 2,
     "forks_count": 6
   },
